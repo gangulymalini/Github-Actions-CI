@@ -7,5 +7,5 @@ class TestCase(unittest.TestCase):
         self.assertEqual(example.add(1, 2), 3)
 
 
-if __name__ == '_main__'"
+if __name__ == '_main__':
     unittest.main()
